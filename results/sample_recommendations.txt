@@ -1,0 +1,13 @@
+Example recommendations from the best model by NDCG@10: Hybrid
+
+user 96900
+  top rated in training : Alanna: The First Adventure (Song of the Lioness (Paperback)), In the Hand of the Goddess (Song of the Lioness (Paperback)), Wild Magic (Immortals (Paperback)), 034073356X
+  recommended           : The Woman Who Rides Like a Man (Song of the Lioness (Paperback)), Emperor Mage (Immortals (Paperback)), Lioness Rampant (Song of the Lioness (Paperback)), Ramona the Pest (Ramona Quimby (Paperback)), Ramona and Her Mother (Ramona Quimby (Paperback)), Front Porch Tales, Daughter of the Blood (Black Jewels Trilogy), A Swiftly Tilting Planet, Chobits Vol.1, Dark Tide I: Onslaught (Star Wars: The New Jedi Order, Book 2)
+
+user 266650
+  top rated in training : Harry Potter and the Chamber of Secrets (Book 2), Shadows and Light, The Shining, INTRUSIONS, Lady of Avalon
+  recommended           : Harry Potter and the Sorcerer's Stone (Harry Potter (Paperback)), Harry Potter and the Goblet of Fire (Book 4), Harry Potter and the Prisoner of Azkaban (Book 3), The Invisible Ring, The Gamble, The Heiress Bride (Bride Trilogy (Paperback)), House of Dreams, Almost Innocent, Harry Potter and the Goblet of Fire (Book 4), Well Favored Gentleman (Avon Historical Romance)
+
+user 240541
+  top rated in training : Fierce Invalids Home from Hot Climates, 1984, Wild Animus, A Year in Provence
+  recommended           : Stalker: A Novel (Peter Decker & Rina Lazarus Novels (Hardcover)), Goodnight Moon Board Book, Dr. Death: A Novel, Villa Incognito, Wuthering Heights, Under the Skin, FIFTEEN, SEEDS OF YESTERDY (Dollanger Saga (Paperback)), Crime and Punishment (Crime & Punishment), Book
